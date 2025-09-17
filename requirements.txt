@@ -1,0 +1,7 @@
+ipykernel
+numpy
+pandas
+kaggle
+pymysql
+sqlalchemy
+psycopg2
